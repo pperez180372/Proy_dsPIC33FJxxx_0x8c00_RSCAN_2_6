@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)  -omf=elf -DXPRJ_default=$(CND_CONF)    -Wa,-g,--no-relax$(MP_EXTRA_AS_POST)  -mdfp="${DFP_DIR}/xc16"C:\Users\pperez.UPVNET\Desktop\GRISELDA\Proy_dsPIC33FJxxx_0x8c00_RSCAN_2_6.X\FreeRTOS\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S
